@@ -21,3 +21,4 @@ And with that you are done!  To connect to your database locally, just run
 
 `psql -U postgres pagila`
 
+The password is also `postgres` but you can change it!
